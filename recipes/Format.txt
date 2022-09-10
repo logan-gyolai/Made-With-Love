@@ -1,0 +1,7 @@
+Title
+tag 1, [tag 2], ... , [tag n]
+ingredient amount units, [ingredient amount units], ... , [ingredient amount units]
+1. Directions
+2. Directions
+...
+n. Directions
